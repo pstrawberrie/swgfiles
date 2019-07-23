@@ -1,0 +1,12 @@
+/healenh health;
+/pause 8;
+/healenh strength;
+/pause 8;
+/healenh constitution;
+/pause 8;
+/healenh action;
+/pause 8;
+/healenh stamina;
+/pause 8;
+/healenh quickness;
+/slap;

@@ -1,0 +1,12 @@
+/healw health;
+/pause 11;
+/healw strength;
+/pause 11;
+/healw constitution;
+/pause 11;
+/healw action;
+/pause 11;
+/healw stamina;
+/pause 11;
+/healw quickness;
+/slap;

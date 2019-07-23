@@ -1,0 +1,18 @@
+/pause 2;
+/stand;
+/pause 2;
+/startd exotic4;
+/pause 2;
+/macro buffRunFlo;
+/pause 65;
+/macro buffRunFlo;
+/pause 35;
+/group Switching to music in 30 seconds.;
+/pause 30;
+/stopd;
+/pause 5;
+/ui action untarget;
+/pause 1;
+/stand;
+/pause 1;
+/macro entCycleM;

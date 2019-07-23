@@ -1,0 +1,7 @@
+/loot all corpse;
+/pause .01;
+/loot all corpse;
+/pause .01;
+/loot all corpse;
+/pause .01;
+/macro loot;

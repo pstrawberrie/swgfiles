@@ -1,0 +1,13 @@
+/target an;
+/pause 3;
+/ui action radialMenu;
+/pause 3;
+/ui action defaultAction;
+/pause 3;
+/ui action conversationResponse0;
+/pause 3;
+/ui action conversationResponse0;
+/pause 3;
+/ui action conversationResponse0;
+/pause 3;
+/macro oldman;
